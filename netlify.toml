@@ -1,3 +1,2 @@
 [build]
-command = "npm run build" # ou yarn build, se for o caso
-functions = "functions"
+  command = "node index.js"
